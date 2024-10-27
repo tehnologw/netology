@@ -1,10 +1,10 @@
 ## for netology homeworks [module 05-virt-03-docker-intro]
 
-#task1
+# task1
 <br>
 https://hub.docker.com/r/tehnologw/custom-nginx/tags
 
-#task2
+# task2
 <img
   src="/05-virt-03-docker-intro_files/task2_1.png"
   alt="bash history"
