@@ -1,6 +1,6 @@
 ## for netology homeworks [module 05-virt-03-docker-intro]
 
-# task1
+![Static Badge](https://img.shields.io/badge/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%201-98989a) 
 <br>
 https://hub.docker.com/r/tehnologw/custom-nginx/tags
 
