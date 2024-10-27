@@ -1,2 +1,0 @@
-# netology
-for netology homeworks
