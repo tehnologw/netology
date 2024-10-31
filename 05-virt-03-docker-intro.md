@@ -14,7 +14,6 @@ https://hub.docker.com/r/tehnologw/custom-nginx/tags
   src="/05-virt-03-docker-intro_files/task2_2.png"
   alt="I will be DevOps Engineer!"
   style="display: inline-block; border: solid; margin: 0 auto; max-width: 300px">
-
 <br><br>
 ![Static Badge](https://img.shields.io/badge/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%203-778665) 
 <img
@@ -41,10 +40,35 @@ https://hub.docker.com/r/tehnologw/custom-nginx/tags
 <br>
 <img
   src="/05-virt-03-docker-intro_files/task4.png"
-  alt="bash history task 3.3"
+  alt="bash history task 4"
   style="display: inline-block; border: solid; margin: 0 auto; max-width: 300px">
 
 <br><br>
 ![Static Badge](https://img.shields.io/badge/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%205-333438) 
+<br>
+<img
+  src="/05-virt-03-docker-intro_files/task5_2.png"
+  alt="bash history task 5"
+  style="display: inline-block; border: solid; margin: 0 auto; max-width: 300px">
+<br>
+<img
+  src="/05-virt-03-docker-intro_files/task5_3.png"
+  alt="bash history task 5"
+  style="display: inline-block; border: solid; margin: 0 auto; max-width: 300px">
+<br>
+<img
+  src="/05-virt-03-docker-intro_files/task5_4.png"
+  alt="bash history task 5"
+  style="display: inline-block; border: solid; margin: 0 auto; max-width: 300px">
+<br>
+<img
+  src="/05-virt-03-docker-intro_files/task5_5.png"
+  alt="bash history task 5"
+  style="display: inline-block; border: solid; margin: 0 auto; max-width: 300px">
+<br>
+<img
+  src="/05-virt-03-docker-intro_files/task5_1.png"
+  alt="bash history task 5"
+  style="display: inline-block; border: solid; margin: 0 auto; max-width: 300px">
 
 
